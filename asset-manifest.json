@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7Bfirst-app%7D/static/css/main.cc6dd817.css",
-    "main.js": "/%7Bfirst-app%7D/static/js/main.fc156ffb.js",
-    "static/js/787.f3d7924f.chunk.js": "/%7Bfirst-app%7D/static/js/787.f3d7924f.chunk.js",
-    "index.html": "/%7Bfirst-app%7D/index.html",
-    "main.cc6dd817.css.map": "/%7Bfirst-app%7D/static/css/main.cc6dd817.css.map",
-    "main.fc156ffb.js.map": "/%7Bfirst-app%7D/static/js/main.fc156ffb.js.map",
-    "787.f3d7924f.chunk.js.map": "/%7Bfirst-app%7D/static/js/787.f3d7924f.chunk.js.map"
+    "main.css": "/first-app/static/css/main.cc6dd817.css",
+    "main.js": "/first-app/static/js/main.ffeaeef2.js",
+    "static/js/787.f3d7924f.chunk.js": "/first-app/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/first-app/index.html",
+    "main.cc6dd817.css.map": "/first-app/static/css/main.cc6dd817.css.map",
+    "main.ffeaeef2.js.map": "/first-app/static/js/main.ffeaeef2.js.map",
+    "787.f3d7924f.chunk.js.map": "/first-app/static/js/787.f3d7924f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc6dd817.css",
-    "static/js/main.fc156ffb.js"
+    "static/js/main.ffeaeef2.js"
   ]
 }
